@@ -6,13 +6,15 @@ import CardContent from '@material-ui/core/CardContent';
 import './ImageTile.css';
 
 export function ImageTile(props) {
-  console.log(props.url);
   const url = `assets/${props.src}`;
+
+  const handleClickOpen = () => props.handleClickOpen(url);
+
   return (
     <Grid item xs={4}>
       <Card className="img-tile" raised={true}>
         <CardContent className="card-content">
-          <img src={url} alt="lolcat" />
+          <img src={url} alt="lolcat" onClick={handleClickOpen} />
         </CardContent>
       </Card>
     </Grid>

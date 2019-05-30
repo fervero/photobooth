@@ -1,0 +1,27 @@
+.modal-title {
+  text-align: center;
+}
+
+.modal-img-container {
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.email-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.email-input {
+  width: 25em;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.button {
+  margin-left: 2rem !important;
+  margin-top: 6px !important;
+}
