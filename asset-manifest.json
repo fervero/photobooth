@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/photobooth/static/css/main.de68eb5d.chunk.css",
+    "main.js": "/photobooth/static/js/main.4734617c.chunk.js",
+    "main.js.map": "/photobooth/static/js/main.4734617c.chunk.js.map",
+    "runtime~main.js": "/photobooth/static/js/runtime~main.11004836.js",
+    "runtime~main.js.map": "/photobooth/static/js/runtime~main.11004836.js.map",
+    "static/js/2.d242ceb2.chunk.js": "/photobooth/static/js/2.d242ceb2.chunk.js",
+    "static/js/2.d242ceb2.chunk.js.map": "/photobooth/static/js/2.d242ceb2.chunk.js.map",
+    "index.html": "/photobooth/index.html",
+    "precache-manifest.4106c8d2b4b5d28a1f510105c0c0fbfa.js": "/photobooth/precache-manifest.4106c8d2b4b5d28a1f510105c0c0fbfa.js",
+    "service-worker.js": "/photobooth/service-worker.js",
+    "static/css/main.de68eb5d.chunk.css.map": "/photobooth/static/css/main.de68eb5d.chunk.css.map"
+  }
+}
